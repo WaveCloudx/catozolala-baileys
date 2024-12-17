@@ -1,14 +1,14 @@
 {
-  "name": "@fizzxydev/baileys",
+  "name": "catozolala-baileys",
   "version": "1.0.7",
   "private": false,
-  "description": "NodeJS libary FizzxyDev",
+  "description": "NodeJS libary catozolala",
   "keywords": [
     "Baileys",
     "whiskeysockets/baileys",
     "whatsapp",
     "meta",
-    "Fizzxy", 
+    "catozolala", 
     "whatsapp",
     "js-whatsapp",
     "whatsapp-api",
